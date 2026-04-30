@@ -19,7 +19,21 @@ const body = DM_Sans({
 export const metadata: Metadata = {
   title: site.name,
   description: site.description,
-  metadataBase: new URL(site.url)
+  metadataBase: new URL(site.url),
+  openGraph: {
+    title: site.name,
+    description: site.description,
+    url: site.url,
+    siteName: site.name,
+    type: "website",
+    images: [{ url: `${site.url}/og-image.svg`, width: 1200, height: 630, alt: site.name }]
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: site.name,
+    description: site.description,
+    images: [`${site.url}/og-image.svg`]
+  }
 };
 
 export default function RootLayout({ children }: Readonly<{ children: ReactNode }>) {

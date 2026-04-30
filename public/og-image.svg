@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0f23"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- Background orbs -->
+  <circle cx="200" cy="200" r="300" fill="#f59e0b" opacity="0.06"/>
+  <circle cx="1000" cy="500" r="400" fill="#6366f1" opacity="0.08"/>
+  <!-- Logo mark -->
+  <rect x="80" y="180" width="8" height="260" rx="4" fill="url(#accent)" opacity="0.9"/>
+  <rect x="100" y="220" width="8" height="220" rx="4" fill="url(#accent)" opacity="0.7"/>
+  <rect x="120" y="260" width="8" height="180" rx="4" fill="url(#accent)" opacity="0.5"/>
+  <rect x="140" y="290" width="8" height="150" rx="4" fill="url(#accent)" opacity="0.35"/>
+  <!-- Product name -->
+  <text x="200" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="96" font-weight="800" fill="white" letter-spacing="-2">ViewPulse</text>
+  <text x="200" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="36" fill="#f59e0b" font-weight="600">YouTube Watch History Analyzer</text>
+  <text x="200" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="28" fill="#94a3b8">100% private — your data never leaves your browser</text>
+  <!-- CTA pill -->
+  <rect x="200" y="480" width="240" height="60" rx="30" fill="url(#accent)"/>
+  <text x="320" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="700" fill="#0f0f23" text-anchor="middle">viewpulse.rachkovan.com</text>
+</svg>

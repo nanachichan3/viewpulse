@@ -6,7 +6,7 @@ export const site = {
   url: "https://viewpulse.rachkovan.com",
   description:
     "Open-source YouTube watch history analyzer. Runs entirely on your device with no server-side data processing, recording, or storage.",
-  image: "https://viewpulse.rachkovan.com/og-image.jpg"
+  image: "https://viewpulse.rachkovan.com/og-image.svg"
 };
 
 type CreateMetadataInput = {
