@@ -1,0 +1,9 @@
+Building something that surfaces these patterns. No OAuth. No data collection. Your data stays in your browser.
+
+Launching May 6 on Product Hunt.
+
+If you're a creator who wants to understand *why* — follow along.
+
+4/4
+
+#YouTubeAnalytics #Viewpulse #CreatorTools

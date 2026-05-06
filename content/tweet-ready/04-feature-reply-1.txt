@@ -1,0 +1,10 @@
+Studio shows you total watch time ÷ video views.
+
+But: a 10-min video with 40% retention = 4 min avg.
+A 20-min video with 35% retention = 7 min avg.
+
+Same retention %, wildly different watch time.
+
+Which video is "better"? Depends on your goal.
+
+2/

@@ -1,0 +1,9 @@
+I spent 3 months exporting CSVs from YouTube Studio just to answer one question:
+
+"Why does this video outperform that one?"
+
+Not views. Not watch time. The actual *why*.
+
+YouTube Studio couldn't help. So I built something that could.
+
+Here's what I found 🧵

@@ -1,0 +1,10 @@
+Every YouTube analytics tool requires your Google account.
+
+Think about what that means:
+- They have access to your channel data
+- They can see what you watch
+- Their business model is your data
+
+I didn't want that for myself. So I built something different.
+
+🔒

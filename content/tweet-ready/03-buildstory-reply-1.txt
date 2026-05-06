@@ -1,0 +1,8 @@
+Export 1: 200 rows of data. Okay, I can work with this.
+Export 2: Wait, this has a different date range. Why doesn't Studio just... show me the full picture?
+Export 3: Manual CSV merge. Fine, I'll do it myself.
+Export 4: The date format changed again. Now I need to reparse everything.
+
+3 months of this.
+
+2/

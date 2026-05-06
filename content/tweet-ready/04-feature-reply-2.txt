@@ -1,0 +1,9 @@
+Viewpulse shows you retention % *and* actual watch time, side by side.
+
+Plus: CTR by traffic source (organic vs. suggested vs. browse)
+
+Plus: Subscriber delta trends per video
+
+Plus: Your actual best posting windows, based on your audience's watch patterns
+
+3/

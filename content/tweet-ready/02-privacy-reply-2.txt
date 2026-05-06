@@ -1,0 +1,9 @@
+Viewpulse runs 100% client-side.
+
+Upload your Google Takeout file. Get your analytics dashboard.
+
+Nothing goes to our servers. No OAuth. No tracking. No accounts.
+
+Your data stays in your browser.
+
+3/

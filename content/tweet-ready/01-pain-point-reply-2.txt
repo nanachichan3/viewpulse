@@ -1,0 +1,9 @@
+YouTube Studio gives you the graph. It doesn't give you the pattern.
+
+Pattern requires: CTR by traffic source + retention by video type + subscriber deltas per video
+
+Studio shows 1 of those 3 clearly.
+
+That's why I started building Viewpulse.
+
+3/

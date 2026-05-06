@@ -1,0 +1,8 @@
+What you'll get:
+- CTR by traffic source (organic vs. suggested vs. browse)
+- Retention % + actual watch time by video type
+- Subscriber delta trends per video
+- Your actual best posting windows
+- All in one clean dashboard
+
+2/

@@ -26,13 +26,13 @@ export const metadata: Metadata = {
     url: site.url,
     siteName: site.name,
     type: "website",
-    images: [{ url: `${site.url}/og-image.svg`, width: 1200, height: 630, alt: site.name }]
+    images: [{ url: `${site.url}/api/og-image`, width: 1200, height: 630, alt: site.name }]
   },
   twitter: {
     card: "summary_large_image",
     title: site.name,
     description: site.description,
-    images: [`${site.url}/og-image.svg`]
+    images: [`${site.url}/api/og-image`]
   }
 };
 

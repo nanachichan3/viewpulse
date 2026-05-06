@@ -1,0 +1,12 @@
+The problem isn't that YouTube Studio is bad. It's that it shows you *what* happened, not *why*.
+
+Example: Video A gets 100K views. Video B gets 80K views.
+
+YouTube Studio says Video A won.
+
+But Video A had 40% retention on a 5-min video = 2 min watch time.
+Video B had 55% retention on a 15-min video = 8.25 min watch time.
+
+Same views. Very different stories.
+
+2/
