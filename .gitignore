@@ -26,3 +26,8 @@ Thumbs.db
 # CTO status logs
 CTO_STATUS*.md
 CTO_STATUS_LATEST.md
+-e 
+# Lock files
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
