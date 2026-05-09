@@ -22,3 +22,7 @@ Thumbs.db
 
 # Misc
 *.tsbuildinfo
+
+# CTO status logs
+CTO_STATUS*.md
+CTO_STATUS_LATEST.md
